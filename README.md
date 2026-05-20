@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About – 2–3 lines about you (data analysis + full-stack + civic tech).
+
+## Projects – bullet list with links to Loomap, Lisbon data analysis, etc.
+
+## Contact – email, LinkedIn link.
